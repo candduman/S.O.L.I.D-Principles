@@ -1,0 +1,15 @@
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\bin\Debug\net6.0\InterfaceSegretationPrinciple.exe
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\bin\Debug\net6.0\InterfaceSegretationPrinciple.deps.json
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\bin\Debug\net6.0\InterfaceSegretationPrinciple.runtimeconfig.json
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\bin\Debug\net6.0\InterfaceSegretationPrinciple.dll
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\bin\Debug\net6.0\InterfaceSegretationPrinciple.pdb
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\obj\Debug\net6.0\InterfaceSegretationPrinciple.csproj.AssemblyReference.cache
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\obj\Debug\net6.0\InterfaceSegretationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\obj\Debug\net6.0\InterfaceSegretationPrinciple.AssemblyInfoInputs.cache
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\obj\Debug\net6.0\InterfaceSegretationPrinciple.AssemblyInfo.cs
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\obj\Debug\net6.0\InterfaceSegretationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\obj\Debug\net6.0\InterfaceSegretationPrinciple.dll
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\obj\Debug\net6.0\refint\InterfaceSegretationPrinciple.dll
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\obj\Debug\net6.0\InterfaceSegretationPrinciple.pdb
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\obj\Debug\net6.0\InterfaceSegretationPrinciple.genruntimeconfig.cache
+C:\Users\Can\source\repos\InterfaceSegretationPrinciple\obj\Debug\net6.0\ref\InterfaceSegretationPrinciple.dll
